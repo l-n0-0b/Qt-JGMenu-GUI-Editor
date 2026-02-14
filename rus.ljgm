@@ -1,0 +1,68 @@
+# Основной интерфейс
+title=Редактор Конфигурации Qt JGMenu GUI Editor v1.040 
+btn_save=Сохранить
+btn_init=Инициализация
+btn_exit=Выход
+btn_prev=Предпросмотр
+msg_saved=Конфигурация сохранена!
+
+# Вкладки
+tab_gen=Общие
+tab_items=Пункты
+tab_colors=Цвета
+tab_font=Шрифт
+
+# Системные сообщения
+exit_title=Выход
+exit_confirm=Вы уверены? Несохраненные данные будут потеряны.
+font_family=Семейство
+font_size=Размер
+
+# Параметры - Общие
+menu_width=Ширина меню
+menu_height_min=Мин. высота
+menu_height_max=Макс. высота
+menu_halign=Гориз. выравнивание
+menu_valign=Верт. выравнивание
+menu_margin_x=Отступ X
+menu_margin_y=Отступ Y
+monitor=Монитор
+edge_snap_x=Прилипание к краю
+position_mode=Режим позиции
+stay_alive=Не закрывать сразу
+z_index=Z-слой
+menu_animation_mode=Режим анимации меню
+menu_radius=Радиус углов меню
+menu_border=Рамка меню
+sticky=Закрепить (Sticky)
+
+# Параметры - Пункты
+item_height=Высота пункта
+item_width_max=Макс. ширина пункта
+item_padding_x=Боковой отступ пункта
+item_padding_y=Вертикальный отступ
+item_icon_spacing=Отступ иконки
+item_margin_y=Межстрочный интервал
+item_radius=Радиус пункта
+item_border=Рамка пункта
+icon_size=Размер иконок
+sub_hover_action=Открывать при наведении
+sep_height=Высота разделителя
+
+# Параметры - Система
+terminal_exec=Команда терминала
+terminal_args=Аргументы терминала
+csv_name_format=Формат имен (CSV)
+case_insensitive_search=Поиск без регистра
+filter_cmd=Команда фильтрации
+tint2_look=Стиль как в Tint2
+at_pointer=Решим появления меню (0=угол, 1=курсор)
+
+# Цвета
+color_menu_bg=Фон меню
+color_menu_border=Цвет рамки меню
+color_norm_bg=Фон пункта
+color_norm_fg=Текст пункта
+color_sel_bg=Фон выбранного
+color_sel_fg=Текст выбранного
+color_sep_fg=Цвет разделителя

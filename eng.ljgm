@@ -1,0 +1,68 @@
+# UI Main
+title=Qt JGMenu GUI Editor config v1.040
+btn_save=Save
+btn_init=Initialize
+btn_exit=Exit
+btn_prev=Preview
+msg_saved=Config Saved!
+
+# Tabs
+tab_gen=General
+tab_items=Items
+tab_colors=Colors
+tab_font=Font
+
+# System Messages
+exit_title=Exit
+exit_confirm=Are you sure? Unsaved changes will be lost.
+font_family=Family
+font_size=Size
+
+# Parameters - General
+menu_width=Menu Width
+menu_height_min=Min Height
+menu_height_max=Max Height
+menu_halign=Horizontal Align
+menu_valign=Vertical Align
+menu_margin_x=Margin X
+menu_margin_y=Margin Y
+monitor=Monitor
+edge_snap_x=Edge Snap
+position_mode=Position Mode
+stay_alive=Stay Alive
+z_index=Z-Index
+menu_animation_mode=Menu animation
+menu_radius=Menu Radius
+menu_border=Menu Border
+sticky=Sticky Mode
+
+# Parameters - Items
+item_height=Item Height
+item_width_max=Max Item Width
+item_padding_x=Item Horizontal Padding
+item_padding_y=Item Vertical Padding
+item_icon_spacing=Icon Spacing
+item_margin_y=Item Margin Y
+item_radius=Item Radius
+item_border=Item Border
+icon_size=Icon Size
+sub_hover_action=Sub-menu Hover
+sep_height=Separator Height
+
+# Parameters - System
+terminal_exec=Terminal Exec
+terminal_args=Terminal Args
+csv_name_format=CSV Name Format
+case_insensitive_search=Case Insensitive
+filter_cmd=Filter Command
+tint2_look=Tint2 Look Style
+at_pointer=Solve the appearance (0 = angle, 1 = cursor)
+
+# Colors
+color_menu_bg=Menu Background
+color_menu_border=Menu Border Color
+color_norm_bg=Item Background
+color_norm_fg=Item Text
+color_sel_bg=Selected Background
+color_sel_fg=Selected Text
+color_sep_fg=Separator Color
